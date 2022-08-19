@@ -1,5 +1,5 @@
 # JS-Loan-Simulator
-JS Loan Simulator made by my group and I. Basical knowledge on JavaScript, CSS and HTML
+JS Loan Simulator made by my group and I. Basical knowledge on JavaScript, CSS and HTML.
 
 Grupo composto por: 
 
